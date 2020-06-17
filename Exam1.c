@@ -4,12 +4,14 @@ void main(void){
     printf("second printf");
     printf("third printf");
 
+    funcA();
+
 
 
 
 }
 
-void fincA(void){
+void funcA(void){
 
     printf("Function A\n)
 
