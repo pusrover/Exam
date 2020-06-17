@@ -5,4 +5,13 @@ void main(void){
     printf("third printf");
 
 
+
+
+}
+
+void fincA(void){
+
+    printf("Function A\n)
+
+
 }
