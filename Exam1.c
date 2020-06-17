@@ -4,5 +4,8 @@ void main(void){
     printf("second printf");
     printf("third printf");
 
+    printf("4th printf");
+
 
 }
+
