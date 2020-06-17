@@ -1,6 +1,6 @@
 void main(void){
 
-    printf("Hello WOrld!!\n")
+    printf("Hello WOrld!!\n");
 
 
 }
