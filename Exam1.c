@@ -7,5 +7,13 @@ void main(void){
     printf("4th printf");
 
 
+    funcA();
+
+
+}
+
+void funcA(void){
+
+    printf("Function A\n)
 }
 
